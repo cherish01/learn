@@ -4,8 +4,16 @@ You can use the [editor on GitHub](https://github.com/cherish01/learn/edit/gh-pa
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### 自学
+### 排序
+    （1）插入排序：直接插入排序、二分法插入排序、希尔排序
 
+    （2）选择排序：直接选择排序、堆排序
+
+    （3）交换排序：冒泡排序、快速排序
+
+    （4）归并排序
+
+    （5）基数排序
 
 ![image](https://user-images.githubusercontent.com/24765262/160609856-ab3b89e8-9630-443d-b735-d37d79fe60a2.png)
 ```markdown
