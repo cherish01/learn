@@ -4,20 +4,19 @@ You can use the [editor on GitHub](https://github.com/cherish01/learn/edit/gh-pa
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 自学
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+![image](https://user-images.githubusercontent.com/24765262/160609856-ab3b89e8-9630-443d-b735-d37d79fe60a2.png)
 ```markdown
 Syntax highlighted code block
 
 # Header 1 自学
-## Header 2
-### Header 3
+
 
 - Bulleted
 - List
-![image](https://user-images.githubusercontent.com/24765262/160609856-ab3b89e8-9630-443d-b735-d37d79fe60a2.png)
+
 1. Numbered
 2. List
 
